@@ -1,4 +1,4 @@
 amazingCMS
 ==========
 
-The most awesome CMS ever created
+The most awesome CMS ever created, in aptana
