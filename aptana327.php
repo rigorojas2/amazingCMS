@@ -1,1 +1,1 @@
-327, did it.
+327, did it. getting bit by bit
