@@ -14,3 +14,5 @@ add files, folder, etc.
 then in Aptana's project browser
 right click on the project name,
 team - stage, commit, push (in that order)
+
+more
