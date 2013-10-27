@@ -1,1 +1,0 @@
-I love it, I love it lots, yeah I do love it
